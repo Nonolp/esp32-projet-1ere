@@ -1,0 +1,65 @@
+
+body{
+    height: 1350vh;     
+    background: linear-gradient(to top,#fdf497, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%   );
+} 
+  
+h1{
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#image1{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image2{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image3{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image4{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image5{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image6{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image7{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image8{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image9{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
+#image10{
+    width: 1632px ;
+    height: 1232px;
+    text-align: center;
+}
