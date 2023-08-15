@@ -14,6 +14,6 @@ Les images stockées dans le dossier "images" sont des images de test local
 Il est normal que les images puissent être différente sur la page html puisque celle-ci utilise des images provenant
 d'une base de donner externe.
 
-<strong>Je précise aussi que pour le moment la connection a firebase n'est pas établie les photos prise a partir de l'esp32 son donc stocké en local depuis une carte micro SD</strong>
+<strong>Je précise aussi que pour le moment la connection à firebase n'est pas établie. Les photos prise a partir de l'esp32 son donc stocké en local depuis une carte micro SD</strong>
 
 Nonolp
