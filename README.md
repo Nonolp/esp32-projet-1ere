@@ -1,4 +1,4 @@
-<h1>Bonjour bienvenue sur mon projet de mangeoire à oiseaux connecté réalisé dans le cadre d'un projet scolaire en 2013.</h1>
+<h1>Bienvenue sur mon projet de mangeoire à oiseaux connecté réalisé dans le cadre d'un projet scolaire en 2013.</h1>
 
 Le projet de base a pour but de prendre des phtos d'oiseaux depuis une mangeoire une photo depuis un esp32 (une carte microprogramable) puis de l'envoyer sur firebase afin d'afficher cette dernière sur un site web
 
